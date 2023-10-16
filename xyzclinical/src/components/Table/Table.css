@@ -1,0 +1,29 @@
+.table-container {
+  width: 100%;
+  overflow-x: scroll !important;
+}
+
+td {
+  border: 1px solid #000;
+  padding: 0.25rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  padding: 8px 12px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
